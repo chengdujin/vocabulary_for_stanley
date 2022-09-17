@@ -6,4 +6,4 @@ There are two versions: preschool and the version for the first year. The presch
 
 The current version targets Stanley's work for the first year at school. Major content changes from the preschool version are more words (1500 vs 700), irregular verb conjugations and phrases.
 
-Newly added words are marked in **RED**(`rgb(255,0,0)`).
+Newly added words are marked in <span style="color:red">RED</span>.
